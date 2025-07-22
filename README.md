@@ -19,11 +19,19 @@ This project demonstrates how to use **Python** and **Pandas** to analyze real-w
 
 ## ⚙️ Installation Guide
 
+To run the notebook:
+
+```
+pip install notebook
+jupyter notebook
+```
 Ensure you have Python 3.10+ and pip installed.
 
 ### 1️⃣ Install Required Libraries:
 
-```bash
+```
 pip install pandas==2.2.2
 pip install numpy==1.26.4
 pip install requests==2.31.0
+
+```
